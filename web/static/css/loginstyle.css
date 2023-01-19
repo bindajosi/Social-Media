@@ -1,0 +1,20 @@
+body {
+    background: #f7fdfe;
+    background: linear-gradient(to right, #fbfbfb, #fdfdfd);
+  }
+  
+  .btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+  }
+  
+  .btn-google {
+    color: white !important;
+    background-color: #85b7ed;
+  }
+  
+  .btn-facebook {
+    color: white !important;
+    background-color: #170c8c;
+  }
